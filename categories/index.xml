@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Somrat | Hugo Portfolio Template</title>
-    <link>https://examplesite.org/categories/</link>
-    <description>Recent content in Categories on Somrat | Hugo Portfolio Template</description>
+    <title>Categories on Hugo Themes</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     
-	<atom:link href="https://examplesite.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
