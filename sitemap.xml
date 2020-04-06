@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://github.com/neerajsarna/neeraj_web.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://github.com/neerajsarna/neeraj_web.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://github.com/neerajsarna/neeraj_web.github.io/</loc>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://github.com/neerajsarna/neeraj_web.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://github.com/neerajsarna/neeraj_web.github.io/tags/</loc>
   </url>
   
 </urlset>
