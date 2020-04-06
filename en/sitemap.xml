@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.org/categories/</loc>
+    <loc>https://neerajsarna.github.io/neeraj_web.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.org/fr/categories/"
+                href="https://neerajsarna.github.io/neeraj_web.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/categories/"
+                href="https://neerajsarna.github.io/neeraj_web.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.org/</loc>
+    <loc>https://neerajsarna.github.io/neeraj_web.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.org/fr/"
+                href="https://neerajsarna.github.io/neeraj_web.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/"
+                href="https://neerajsarna.github.io/neeraj_web.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.org/tags/</loc>
+    <loc>https://neerajsarna.github.io/neeraj_web.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.org/fr/tags/"
+                href="https://neerajsarna.github.io/neeraj_web.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/"
+                href="https://neerajsarna.github.io/neeraj_web.github.io/tags/"
                 />
   </url>
   
